@@ -1,2 +1,1 @@
-# Flipcart-Clone
-Using supabase React Redux
+Flipkart clone using reactjs...
